@@ -3,6 +3,8 @@ name = "elevate"
 version = "0.1.0"
 authors = ["iorate <iorate@users.noreply.github.com>"]
 edition = "2018"
+repository = "https://github.com/iorate/elevate"
+license = "BSL-1.0"
 
 [dependencies]
 getopts = "0.2"
