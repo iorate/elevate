@@ -1,0 +1,13 @@
+[package]
+name = "elevate"
+version = "0.1.0"
+authors = ["iorate <iorate@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+getopts = "0.2"
+regex = { version = "1", default-features = false, features = ["std"] }
+windows = "0.3.1"
+
+[build-dependencies]
+windows = "0.3.1"
